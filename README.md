@@ -4,12 +4,12 @@ This project showcases a cloud-native microservice built with ASP.NET Core, cont
 
 ## Features
 
-- ✅ ASP.NET Core 7.0 Web API
-- ✅ RESTful endpoints with Swagger documentation
-- ✅ SQL Server integration using Entity Framework Core
-- ✅ Docker containerization with multi-stage build
-- ✅ GitHub Actions CI/CD pipeline
-- ✅ Azure App Service deployment via ARM template
+- ASP.NET Core 7.0 Web API
+- RESTful endpoints with Swagger documentation
+- SQL Server integration using Entity Framework Core
+- Docker containerization with multi-stage build
+- GitHub Actions CI/CD pipeline
+- Azure App Service deployment via ARM template
 
 ## Tech Stack
 
